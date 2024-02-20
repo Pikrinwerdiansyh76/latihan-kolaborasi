@@ -1,1 +1,1 @@
-# latihan-kolaborasi
+# Belajar-kolaborasi
