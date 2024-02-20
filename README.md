@@ -1,2 +1,3 @@
 # Belajar-kolaborasi
-Senang belajar Git dan GitHub
+**Senang belajar Git dan GitHub**<br>
+*Aku Fikrin Werdiansyah*
